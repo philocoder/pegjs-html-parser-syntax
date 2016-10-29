@@ -9,15 +9,17 @@
  * and also for PEGjs parser.
  * 
  * This parser does not check the correspondence between
- * opened and closed tags.
+ * opened and closed tags (the name can change, and the 
+ * parser would accept the input).
  * 
  * But tracks that the same number of opened tags is the same
  * number of closed tags, and that the first tag is a pure HTML
  * tag.
  *
- * I needed an html parser, but I wanted it to be small.
+ * I needed an html parser, but I wanted it to be small, and not very strict.
  *
- * So it's not a bug, it is my purpose. 
+ * But feel free to change, modify, amplify or whatever you 
+ * want with this code.
  *
  *
  *
