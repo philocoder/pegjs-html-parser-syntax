@@ -2,7 +2,8 @@
  *
  * Licensed like: Do whatever you want with this piece of code.
  *
- *
+ * I picked some lines of code from else where, and this is a mix
+ * between the ideas I got there and there, you know...
  *
  * There are also other more competent parsers out there, 
  * just check it out if you need rigorous HTML parsing,
